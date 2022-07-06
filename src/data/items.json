@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ferrari",
+    "price": 300000,
+    "imgurl": "../../public/imgs/ferrari.jpg"
+  },
+  {
+    "id": 2,
+    "name": "AudiRS7",
+    "price": 130000,
+    "imgurl": "../../public/imgs/audirs.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Audi",
+    "price": 80000,
+    "imgurl": "../../public/imgs/audi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MercedesBenz",
+    "price": 100000,
+    "imgurl": "../../public/imgs/mercedes.jpg"
+  }
+]
